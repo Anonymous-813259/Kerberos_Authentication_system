@@ -1,4 +1,4 @@
-3 pairs
+3 pairs of steps: -
 
 1st -
 	User:- Client Authentication to AS (Authentication Server) i.e., User_id and password
